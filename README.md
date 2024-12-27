@@ -1,5 +1,7 @@
 # 📊 Amazon Prime Video Content Analytics Dashboard
-
+<div align="center">
+![Amazon Dashboard](https://github.com/sanidhya-mitra/Amazon_Prime_Video_Dashboard_Project/blob/main/Amazon%20Prime%20Dashboard.gif)
+</div>
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg" width="500px">
 </div>
